@@ -1,5 +1,5 @@
 /*
-  	By : Neeraj Sharma
+  	By : Neeraj Sharmaa
    	Roll no. : 19HCS4037
    	Description : My first prgm of Discrete to find gcd,factorial,print fibbonacci series,to find 'm' to the power 'n'
    					with and without recursion
